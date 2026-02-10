@@ -1,0 +1,50 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage{enumitem}
+
+\titlespacing*{\section}{0pt}{10pt}{5pt}
+\titlespacing*{\subsection}{0pt}{8pt}{4pt}
+\setlist[itemize]{noitemsep, topsep=2pt}
+
+\title{\vspace{-2cm}DA6701 Assignment 1 -- Report}
+\author{Athreya G (DA24B002) \and Kiran Kumar (DA24B008) \\ 
+        Harshvardhan A (DA24B039) \and Siddesh Kamble (NA24B070)}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Selection}
+\subsection{Hierarchical Risk Parity}
+We did hierarchical clustering using single linkage, to find out the optimal leaf ordering, and quasi diagonalization. We then, using recursive bisection to figure out the weights, and chose the highest from each of the ten given sectors.
+\subsection{Sharpe's Ratio Maximization}
+\begin{itemize}
+    \item We considered all thirty stocks as a part of our portfolio and found the weights of each which maximise the sharpe's ratio. Out of them, only \textbf{14 stocks} had significant weights, and we chose stocks corresponding to the ten highest weights, each from a different sector.
+    \item We considered ten portfolios, each consisting of three stocks from each category, and figured out the weights which maximise the sharpe's ratio in each category. We chose the stock with the highest weight out of each category.
+\end{itemize}
+\section{Visualization}
+\begin{figure}[ht!]
+    \centering
+    \begin{minipage}{0.32\textwidth}
+        \centering
+        \includegraphics[width=\linewidth]{Weights.png}
+        \caption{Weights}
+    \end{minipage}
+    \hfill
+    \begin{minipage}{0.32\textwidth}
+        \centering
+        \includegraphics[width=\linewidth]{Correlation.png}
+        \caption{Correlation Map}
+    \end{minipage}
+    \hfill
+    \begin{minipage}{0.32\textwidth}
+        \centering
+        \includegraphics[width=\linewidth]{frontier.png}
+        \caption{Efficient Frontier}
+    \end{minipage}
+\end{figure}
+\end{document}
