@@ -1,0 +1,86 @@
+{
+  "BHARTIARTL": {
+    "rows": 1486,
+    "coverage_pct": 0.0,
+    "total_news": 0,
+    "nan_pct": {
+      "sentiment_mean": 100.0,
+      "sentiment_std": 100.0,
+      "sentiment_positive_ratio": 100.0,
+      "sentiment_negative_ratio": 100.0,
+      "sentiment_3d_mean": 100.0,
+      "sentiment_7d_mean": 100.0,
+      "sentiment_30d_mean": 100.0
+    }
+  },
+  "HDFCBANK": {
+    "rows": 1486,
+    "coverage_pct": 0.0,
+    "total_news": 0,
+    "nan_pct": {
+      "sentiment_mean": 100.0,
+      "sentiment_std": 100.0,
+      "sentiment_positive_ratio": 100.0,
+      "sentiment_negative_ratio": 100.0,
+      "sentiment_3d_mean": 100.0,
+      "sentiment_7d_mean": 100.0,
+      "sentiment_30d_mean": 100.0
+    }
+  },
+  "HINDUNILVR": {
+    "rows": 1486,
+    "coverage_pct": 0.0,
+    "total_news": 0,
+    "nan_pct": {
+      "sentiment_mean": 100.0,
+      "sentiment_std": 100.0,
+      "sentiment_positive_ratio": 100.0,
+      "sentiment_negative_ratio": 100.0,
+      "sentiment_3d_mean": 100.0,
+      "sentiment_7d_mean": 100.0,
+      "sentiment_30d_mean": 100.0
+    }
+  },
+  "INFY": {
+    "rows": 1486,
+    "coverage_pct": 0.0,
+    "total_news": 0,
+    "nan_pct": {
+      "sentiment_mean": 100.0,
+      "sentiment_std": 100.0,
+      "sentiment_positive_ratio": 100.0,
+      "sentiment_negative_ratio": 100.0,
+      "sentiment_3d_mean": 100.0,
+      "sentiment_7d_mean": 100.0,
+      "sentiment_30d_mean": 100.0
+    }
+  },
+  "M&M": {
+    "rows": 1486,
+    "coverage_pct": 0.0,
+    "total_news": 0,
+    "nan_pct": {
+      "sentiment_mean": 100.0,
+      "sentiment_std": 100.0,
+      "sentiment_positive_ratio": 100.0,
+      "sentiment_negative_ratio": 100.0,
+      "sentiment_3d_mean": 100.0,
+      "sentiment_7d_mean": 100.0,
+      "sentiment_30d_mean": 100.0
+    }
+  },
+  "RELIANCE": {
+    "rows": 1486,
+    "coverage_pct": 0.0,
+    "total_news": 0,
+    "nan_pct": {
+      "sentiment_mean": 100.0,
+      "sentiment_std": 100.0,
+      "sentiment_positive_ratio": 100.0,
+      "sentiment_negative_ratio": 100.0,
+      "sentiment_3d_mean": 100.0,
+      "sentiment_7d_mean": 100.0,
+      "sentiment_30d_mean": 100.0
+    }
+  }
+}

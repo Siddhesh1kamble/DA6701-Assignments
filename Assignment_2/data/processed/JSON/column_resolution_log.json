@@ -1,0 +1,440 @@
+{
+  "BHARTIARTL": {
+    "close_price": {
+      "method": "synonym",
+      "matched": "close",
+      "alias_used": "close",
+      "score": 1.0
+    },
+    "eps": {
+      "method": "synonym",
+      "matched": "fund_basic_eps",
+      "alias_used": "fund_basic_eps",
+      "score": 1.0
+    },
+    "total_debt": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.519
+    },
+    "equity": {
+      "method": "synonym",
+      "matched": "fund_equity_capital",
+      "alias_used": "fund_equity_capital",
+      "score": 1.0
+    },
+    "net_income": {
+      "method": "synonym",
+      "matched": "fund_net_profit",
+      "alias_used": "fund_net_profit",
+      "score": 1.0
+    },
+    "assets": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.4
+    },
+    "revenue": {
+      "method": "synonym",
+      "matched": "fund_revenue",
+      "alias_used": "fund_revenue",
+      "score": 1.0
+    },
+    "ebit": {
+      "method": "synonym",
+      "matched": "fund_ebit",
+      "alias_used": "fund_ebit",
+      "score": 1.0
+    },
+    "shares_outstanding": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.526
+    },
+    "current_assets": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.516
+    },
+    "current_liabilities": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.457
+    },
+    "inventory": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.381
+    },
+    "fcf": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.25
+    }
+  },
+  "HDFCBANK": {
+    "close_price": {
+      "method": "synonym",
+      "matched": "close",
+      "alias_used": "close",
+      "score": 1.0
+    },
+    "eps": {
+      "method": "synonym",
+      "matched": "fund_basic_eps",
+      "alias_used": "fund_basic_eps",
+      "score": 1.0
+    },
+    "total_debt": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.519
+    },
+    "equity": {
+      "method": "synonym",
+      "matched": "fund_equity_capital",
+      "alias_used": "fund_equity_capital",
+      "score": 1.0
+    },
+    "net_income": {
+      "method": "synonym",
+      "matched": "fund_net_profit",
+      "alias_used": "fund_net_profit",
+      "score": 1.0
+    },
+    "assets": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.4
+    },
+    "revenue": {
+      "method": "synonym",
+      "matched": "fund_revenue",
+      "alias_used": "fund_revenue",
+      "score": 1.0
+    },
+    "ebit": {
+      "method": "synonym",
+      "matched": "fund_ebit",
+      "alias_used": "fund_ebit",
+      "score": 1.0
+    },
+    "shares_outstanding": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.526
+    },
+    "current_assets": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.516
+    },
+    "current_liabilities": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.457
+    },
+    "inventory": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.381
+    },
+    "fcf": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.25
+    }
+  },
+  "HINDUNILVR": {
+    "close_price": {
+      "method": "synonym",
+      "matched": "close",
+      "alias_used": "close",
+      "score": 1.0
+    },
+    "eps": {
+      "method": "synonym",
+      "matched": "fund_basic_eps",
+      "alias_used": "fund_basic_eps",
+      "score": 1.0
+    },
+    "total_debt": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.519
+    },
+    "equity": {
+      "method": "synonym",
+      "matched": "fund_equity_capital",
+      "alias_used": "fund_equity_capital",
+      "score": 1.0
+    },
+    "net_income": {
+      "method": "synonym",
+      "matched": "fund_net_profit",
+      "alias_used": "fund_net_profit",
+      "score": 1.0
+    },
+    "assets": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.4
+    },
+    "revenue": {
+      "method": "synonym",
+      "matched": "fund_revenue",
+      "alias_used": "fund_revenue",
+      "score": 1.0
+    },
+    "ebit": {
+      "method": "synonym",
+      "matched": "fund_ebit",
+      "alias_used": "fund_ebit",
+      "score": 1.0
+    },
+    "shares_outstanding": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.526
+    },
+    "current_assets": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.516
+    },
+    "current_liabilities": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.457
+    },
+    "inventory": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.381
+    },
+    "fcf": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.25
+    }
+  },
+  "INFY": {
+    "close_price": {
+      "method": "synonym",
+      "matched": "close",
+      "alias_used": "close",
+      "score": 1.0
+    },
+    "eps": {
+      "method": "synonym",
+      "matched": "fund_basic_eps",
+      "alias_used": "fund_basic_eps",
+      "score": 1.0
+    },
+    "total_debt": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.519
+    },
+    "equity": {
+      "method": "synonym",
+      "matched": "fund_equity_capital",
+      "alias_used": "fund_equity_capital",
+      "score": 1.0
+    },
+    "net_income": {
+      "method": "synonym",
+      "matched": "fund_net_profit",
+      "alias_used": "fund_net_profit",
+      "score": 1.0
+    },
+    "assets": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.4
+    },
+    "revenue": {
+      "method": "synonym",
+      "matched": "fund_revenue",
+      "alias_used": "fund_revenue",
+      "score": 1.0
+    },
+    "ebit": {
+      "method": "synonym",
+      "matched": "fund_ebit",
+      "alias_used": "fund_ebit",
+      "score": 1.0
+    },
+    "shares_outstanding": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.526
+    },
+    "current_assets": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.516
+    },
+    "current_liabilities": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.457
+    },
+    "inventory": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.381
+    },
+    "fcf": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.25
+    }
+  },
+  "M&M": {
+    "close_price": {
+      "method": "synonym",
+      "matched": "close",
+      "alias_used": "close",
+      "score": 1.0
+    },
+    "eps": {
+      "method": "synonym",
+      "matched": "fund_basic_eps",
+      "alias_used": "fund_basic_eps",
+      "score": 1.0
+    },
+    "total_debt": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.519
+    },
+    "equity": {
+      "method": "synonym",
+      "matched": "fund_equity_capital",
+      "alias_used": "fund_equity_capital",
+      "score": 1.0
+    },
+    "net_income": {
+      "method": "synonym",
+      "matched": "fund_net_profit",
+      "alias_used": "fund_net_profit",
+      "score": 1.0
+    },
+    "assets": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.4
+    },
+    "revenue": {
+      "method": "synonym",
+      "matched": "fund_revenue",
+      "alias_used": "fund_revenue",
+      "score": 1.0
+    },
+    "ebit": {
+      "method": "synonym",
+      "matched": "fund_ebit",
+      "alias_used": "fund_ebit",
+      "score": 1.0
+    },
+    "shares_outstanding": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.526
+    },
+    "current_assets": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.516
+    },
+    "current_liabilities": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.457
+    },
+    "inventory": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.381
+    },
+    "fcf": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.25
+    }
+  },
+  "RELIANCE": {
+    "close_price": {
+      "method": "synonym",
+      "matched": "close",
+      "alias_used": "close",
+      "score": 1.0
+    },
+    "eps": {
+      "method": "synonym",
+      "matched": "fund_basic_eps",
+      "alias_used": "fund_basic_eps",
+      "score": 1.0
+    },
+    "total_debt": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.519
+    },
+    "equity": {
+      "method": "synonym",
+      "matched": "fund_equity_capital",
+      "alias_used": "fund_equity_capital",
+      "score": 1.0
+    },
+    "net_income": {
+      "method": "synonym",
+      "matched": "fund_net_profit",
+      "alias_used": "fund_net_profit",
+      "score": 1.0
+    },
+    "assets": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.4
+    },
+    "revenue": {
+      "method": "synonym",
+      "matched": "fund_revenue",
+      "alias_used": "fund_revenue",
+      "score": 1.0
+    },
+    "ebit": {
+      "method": "synonym",
+      "matched": "fund_ebit",
+      "alias_used": "fund_ebit",
+      "score": 1.0
+    },
+    "shares_outstanding": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.526
+    },
+    "current_assets": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.516
+    },
+    "current_liabilities": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.457
+    },
+    "inventory": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.381
+    },
+    "fcf": {
+      "method": "unresolved",
+      "matched": null,
+      "best_candidate_score": 0.25
+    }
+  }
+}
